@@ -1,0 +1,14 @@
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.exe.config
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.exe
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.pdb
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.AssemblyReference.cache
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Menu.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Properties.Resources.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.TelaAtualizar.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.TelaCadastro.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.TelaConsultar.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.TelaExcluir.resources
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.GenerateResource.cache
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.CoreCompileInputs.cache
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.exe
+C:\Users\camila.poliveira34\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.pdb
